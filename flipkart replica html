@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flipkart</title>
+    <link rel="stylesheet" href="flip.css">
+    <link rel="stylesheet" href="util.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <!-- <div class="plus">Explore Plus</div> -->
+                <img src="logo.png" alt="">
+                <!-- <div class="plus">Explore Plus</div> -->
+                <!-- <img src="star.png" alt=""> -->
+
+            </div>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">about</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="search">
+                <input type="text" name="" id="" placeholder="Search Here">
+                <button class="btn">Search</button>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <div class="slider">
+                <img src="https://source.unsplash.com/1600x900/?shopping, ecommerce" alt="">
+            </div>
+            <div class="card">
+                <h2 class="my-2">Smart phones</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?samsung mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Samsung smartphones</p>
+                            <p class="text-center my-1">Min 20% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?redmi mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Redmi smartphones</p>
+                            <p class="text-center my-1">Min 50% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?iphones" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Iphone smartphones</p>
+                            <p class="text-center my-1">Min 10% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?iqoo mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Iqoo smartphones</p>
+                            <p class="text-center my-1">Min 10% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?vivo mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Vivo smartphones</p>
+                            <p class="text-center my-1">Min 60% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?oppo mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">oppo smartphones</p>
+                            <p class="text-center my-1">Min 30% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?nokia mobile" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Nokia smartphones</p>
+                            <p class="text-center my-1">Min 30% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">gym items</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?proteins creatines" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Proteins</p>
+                            <p class="text-center my-1">Min 30% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?gym clothes" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Gym clothes</p>
+                            <p class="text-center my-1">Min 10% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?bottles" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Gym bottles</p>
+                            <p class="text-center my-1">Min 20% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?dumbells" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Gym dumbells</p>
+                            <p class="text-center my-1">Min 35% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?gym machines" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Gym machines</p>
+                            <p class="text-center my-1">Min 70% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?gym abs maker" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">abs maker</p>
+                            <p class="text-center my-1">Min 30% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?gym outfits" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">gym outfits</p>
+                            <p class="text-center my-1">Min 10% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">clothes</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?tshirts" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Tshirts</p>
+                            <p class="text-center my-1">Min 12% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?Levis jeans" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Jeans</p>
+                            <p class="text-center my-1">Min 40% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?trousers" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Trousers</p>
+                            <p class="text-center my-1">Min 10% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?hoodies" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Graphic Hoodies</p>
+                            <p class="text-center my-1">Min 12% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?denim" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Denims</p>
+                            <p class="text-center my-1">Min 18% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?trackpants" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Trackpants</p>
+                            <p class="text-center my-1">Min 20% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-item">
+                        <img src="https://source.unsplash.com/160x160/?jackets" alt="" width="200px">
+                        <div class="lines">
+                            <p class="text-center my-1">Jackets</p>
+                            <p class="text-center my-1">Min 30% off</p>
+                            <p class="text-center my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="flex-all-center">
+        <p>Copyright Tushar &copy; MyCart.com</p>
+    </footer>
+</body>
+
+</html>
